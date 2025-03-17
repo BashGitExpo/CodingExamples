@@ -1,3 +1,7 @@
+// 2. Check for Palindrome
+// Question: Write a Java program to check if a given string is a palindrome.
+
+
 public class PalindromeCheck {
     public static void main(String[] args) {
         String original = "madam";
@@ -9,3 +13,7 @@ public class PalindromeCheck {
         }
     }
 }
+
+
+// Explanation: The program reverses the input string and compares it to the original. 
+// If they are identical, the string is a palindrome.

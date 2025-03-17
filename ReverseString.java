@@ -1,3 +1,7 @@
+
+// 1. Reverse a String in Java
+// Question: Write a Java program to reverse a given string.
+
 public class ReverseString {
     public static void main(String[] args) {
         String original = "Reshma";
@@ -7,3 +11,5 @@ public class ReverseString {
 }
 
 
+// Explanation: This program utilizes the StringBuilder class, which has a built-in reverse() method, 
+// making it efficient for reversing strings.

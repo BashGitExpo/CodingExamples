@@ -1,3 +1,10 @@
+
+// 3. Find Factorial of a Number
+// Question: Write a Java program to calculate the factorial of a number using recursion.
+
+
+
+
 public class Factorial {
     public static void main(String[] args) {
         int number = 5;
@@ -13,3 +20,7 @@ public class Factorial {
         }
     }
 }
+
+
+// Explanation: The factorial method calls itself recursively, 
+// multiplying the number by the factorial of the number minus one, until it reaches 1.
